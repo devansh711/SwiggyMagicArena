@@ -1,0 +1,5 @@
+com/example/entities/Die.class
+com/example/MagicalArena.class
+com/example/helpers/PlayerInputHelper.class
+com/example/entities/Player.class
+com/example/helpers/BattleHelper.class

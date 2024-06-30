@@ -1,0 +1,11 @@
+4baf16a (HEAD -> main) Added test cases for MagicArena
+57584da Added commits text file to see all the commits
+5cc696d Added instructions in README on how to run code
+21113d4 Added README file for information about what we have implemented
+dd5c83d Added DieTest to test Die roll giving values between 1 and 6 inclusive
+3768678 Added unit test cases for Player class
+285a30b Reorganized file structure
+c5694e9 Implemented PlayerInputHelper class which helps in taking inputs from user
+25132fb Implemented BattleHelper class which defines logic for fight
+caa2063 Implemented Die class using Random
+6ccbfe6 Initialized the project and implemented Player class
